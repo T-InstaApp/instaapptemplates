@@ -12,7 +12,7 @@ jobs:
     #   apk_name: test21
     #   company_Name: Veggies
     #   restaurant_id: 645
-    #   email: vaishnavi.charde@tissatech.com, vaishnavicharde627@gmail.com
+    #   email: niraj.kumar@tissatech.com,vishal.upadhyay@tissatech.com
       
     steps:
     - name: 🚚 Get latest code
